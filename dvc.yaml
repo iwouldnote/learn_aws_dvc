@@ -1,0 +1,7 @@
+stages:
+  say_my_name:
+    cmd: python run.py
+    deps:
+    - file.txt
+    outs:
+    - result.txt

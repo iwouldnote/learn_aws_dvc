@@ -1,0 +1,8 @@
+say_my_name:
+  cmd: python run.py
+  deps:
+  - path: file.txt
+    md5: 036e3491ba499df64611c82b6bcdd37d
+  outs:
+  - path: result.txt
+    md5: 7e11016edf4b3e490dd53a3505252f89
