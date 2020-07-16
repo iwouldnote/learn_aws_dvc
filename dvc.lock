@@ -2,7 +2,7 @@ say_my_name:
   cmd: python run.py
   deps:
   - path: file.txt
-    md5: 9ba4586799e868195214fd72314f655e
+    md5: 5c1a3d71f14e6526428978ec933e007f
   outs:
   - path: result.txt
-    md5: 95fd185eab593f74373c6b696bcf8195
+    md5: fcc62e278688a98933dbee44bcccb7d6
